@@ -1,7 +1,7 @@
 # ryan-function-review
-##Review all the material we've covered so far regarding functions
+Review all the material we've covered so far regarding functions
 
-###Quick Review:
+Quick Review:
 
 Q.1 Functions are used everywhere in Javascript and are very important to learn. There are two ways we've gone over that 
 you can build functions. Do you remember what they are? Build an example of each.
