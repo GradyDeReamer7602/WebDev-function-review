@@ -1,4 +1,4 @@
-# ryan-function-review
+# WebDev-function-review
 Review all the material we've covered so far regarding functions. Don't forget to fork and clone this git before getting into the code
 
 Quick Review:
